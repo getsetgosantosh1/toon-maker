@@ -1,0 +1,5 @@
+{
+  "name": "ToonStyle Creator",
+  "description": "Generate custom cartoons and caricatures by providing a reference style image and a subject.",
+  "requestFramePermissions": []
+}
